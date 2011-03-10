@@ -1,0 +1,11 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3493
+
+Dark color scheme with bright and colorful syntax highlighting.
+
+Screenshots: 
+
+http://www.codeography.com/images/risto-vim-c.png
+http://www.codeography.com/images/risto-vim-menu.png
+http://www.codeography.com/images/risto-vim-html.png
+
+Includes custom highlighting for NERDTree, Netrw, BufferExplorer, Project and a few other plugins.
